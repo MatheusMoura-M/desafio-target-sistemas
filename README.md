@@ -7,7 +7,19 @@ Este projeto contém uma série de exercícios de programação resolvidos em Py
 - **/python**: Contém todos os arquivos `.py` com as soluções dos exercícios em Python.
 - **/nodejs**: Contém os arquivos `.js` com as soluções dos exercícios em Node.js. Aqui você também encontrará a pasta `node_modules` e o arquivo `package.json`, que é necessário para instalar as dependências do projeto.
 
-## Como Rodar o Projeto
+### 1️⃣- Faça o clone desse repositório com o seguinte comando:
+
+```
+git clone {link} 
+``` 
+
+### 2️⃣- Navegue até o diretório do backend:
+
+```
+cd desafio-target-sistemas
+``` 
+
+### 3️⃣- Como Rodar o Projeto:
 
 ### 1. Rodando os Exercícios em Python
 
